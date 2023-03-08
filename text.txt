@@ -1,0 +1,5 @@
+total 12
+-rw-rw-r-- 1 mosee mosee 41 Feb 28 15:29 app.js
+-rw-rw-r-- 1 mosee mosee 57 Feb 28 15:40 Dockerfile
+-rw-rw-r-- 1 mosee mosee  3 Mac  1 11:16 test.txt
+-rw-rw-r-- 1 mosee mosee  0 Mac  1 11:17 text.txt
